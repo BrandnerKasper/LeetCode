@@ -1,5 +1,5 @@
 # LeetCode
-Just a repo to store some solutions for leetcode exercises.
+Just a repo to store some solutions for LeetCode exercises.
 
 ## Example: Add Binary
 
